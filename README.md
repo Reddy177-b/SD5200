@@ -5,8 +5,10 @@
 <b>it will make it bold:</b> Rest of the constent
 Personalized Meal kits
 The process model we have used Incremental model 
-The application obtains user dietary choices including vegetarian and vegan and keto and gluten-free meal selections.
-The system should permit users to express their food sensitivity information.
-Users should be able to select from personalized taste categories including spicy, sweet and savory options.
-Users should be able to access a basic dashboard which enables preference updates.
+Custom Meal Planning
+Pre-Measured Ingredients
+Step-by-Step Recipe Instructions
+Order tracking
+payment gateway
+Ratings alongside reviews from customers form part of the feedback process
 Span of 1 month 
